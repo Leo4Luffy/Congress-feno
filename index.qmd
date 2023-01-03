@@ -1,0 +1,139 @@
+---
+format: 
+  revealjs:
+    theme: [styles.scss]
+    slide-number: true
+    center-title-slide: false
+    footer: "[Congress-feno](https://github.com/Leo4Luffy/Congress-feno)"
+    width: 1280
+    height: 720
+preload-iframes: true
+lang: es
+---
+
+#  {background-iframe="grid-worms/index.html"}
+
+::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+
+::: r-fit-text
+Fenómica: la frontera actual en la cría de animales
+:::
+
+<br>
+<br>
+<br>
+<br>
+
+::: {.my-grey}
+Congreso... <br />
+Leo | Clara | María
+:::
+
+:::
+
+## Introducción
+
+:::small
+Hola!!
+:::
+
+## Introducción
+
+::: {.columns .pv4}
+
+::: {.column width="45%"}
+
+### Titulo tabla
+
+<table class="table-bad" width="100%">
+  <tbody>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  </tbody>
+</table>
+
+::: {.fragment .pv4}
+:::small
+❌ Explicación tabla.
+:::
+:::
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+
+::: {.fragment}
+
+### Titulo tabla
+
+<table class="table-good" width="100%">
+  <tbody>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  </tbody>
+</table>
+::: {.pv4}
+:::small
+✔️ Explicación tabla.
+:::
+:::
+:::
+:::
+
+:::
+
+## Introducción
+
+::: {.panel-tabset}
+
+#### Código
+
+
+
+#### Gráfica
+
+:::

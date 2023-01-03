@@ -1,0 +1,63 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+
+// colors
+$link-color: #51483d !default;
+
+// headings
+$presentation-heading-font: "Palatino Linotype", "Book Antiqua", Palatino,
+  FreeSerif, serif !default;
+$presentation-heading-color: #000000 !default;
+
+/*-- scss:rules --*/
+
+.reveal a {
+  color: #1E1E1E;
+  line-height: 1em;
+  font-weight: 400;
+}
+
+.reveal a:hover {
+  font-weight: 600;
+}
+
+.my-grey {
+  padding-top: 0.5em !important;
+  font-size: 1.0em !important;
+  line-height: 0.5em !important;
+}
+
+.pv4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.table-bad td {
+  border: 2px solid #F92F60 !important;
+  background-color: #F4F4F4;
+}
+
+.table-good td {
+  border: 2px solid #ffff00 !important;
+  background-color: #F4F4F4;
+}
+
+.reveal section h2 {
+    font-size: 1.15em;
+}
+
+.reveal section h3 {
+    font-size: 0.85em;
+}
+
+.reveal section h4 {
+    font-size: 0.65em;
+}
+
+.small {
+    font-size: 0.75em;
+    text-align: justify;
+}
